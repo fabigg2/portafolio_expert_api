@@ -1,4 +1,4 @@
-import Skill from "@/models/skill";
+import Skill from "../models/skill";
 
 class SkillService {
     async getAllSkills() {

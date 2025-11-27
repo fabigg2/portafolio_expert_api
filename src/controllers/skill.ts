@@ -1,4 +1,4 @@
-import skillService from "@/services/skill";
+import skillService from "../services/skill";
 
 class SkillController {
     async getAllSkills(req: any, res: any) {
